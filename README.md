@@ -16,16 +16,9 @@ Os objetivos principais são: praticar programação gráfica, algoritmos e anim
 
 ## 🖼️ Galeria de Imagens e Vídeos
 
-> Aqui você pode adicionar imagens e GIFs dos projetos rodando.
-> Exemplo:
-
-![Solar System](assets/solar-system.mp4)
-![Bresenham](assets/bresenhams-algorithm.mp4)
+![Solar System](assets/solar-system.gif)
+![Bresenham](assets/bresenhams-algorithm.gif)
 ![Robot](assets/robot.png)
-
-Você também pode adicionar links para vídeos hospedados no YouTube ou outra plataforma:
-
-[Vídeo demonstrativo do Sistema Solar](link-do-seu-video)
 
 ## 🛠️ Instalação
 
