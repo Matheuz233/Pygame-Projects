@@ -8,25 +8,25 @@ Os objetivos principais são: praticar programação gráfica, algoritmos e anim
 * **Sistema Solar (`Solar System.py`)**
   Animação interativa representando Sol, Terra, Lua e estrelas com transformações geométricas.
 
+  ![Solar System](assets/solar-system.gif)
+
 * **Algoritmo de Bresenham (`Bresenham's Algorithm.py`)**
   Implementação interativa do algoritmo de Bresenham para desenhar linhas no plano.
+
+  ![Bresenham](assets/bresenhams-algorithm.gif)
 
 * **Robô (`Robot.py`)**
   Desenho de um robô estilizado utilizando formas geométricas.
 
-## 🖼️ Galeria de Imagens e Vídeos
-
-![Solar System](assets/solar-system.gif)
-![Bresenham](assets/bresenhams-algorithm.gif)
-![Robot](assets/robot.png)
+  ![Robot](assets/robot.png)
 
 ## 🛠️ Instalação
 
 1. **Clonar este repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Matheuz233/Pygame-Projects.git
+cd Pygame-Projects
 ```
 
 2. **Criar um ambiente virtual (opcional, mas recomendado)**
