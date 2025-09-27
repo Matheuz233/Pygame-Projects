@@ -1,4 +1,4 @@
-# Projetos em Python com Pygame
+# 🐍 Projetos em Python com Pygame
 
 Este repositório reúne pequenos projetos desenvolvidos em Python utilizando a biblioteca **Pygame**.
 Os objetivos principais são: praticar programação gráfica, algoritmos e animações.
